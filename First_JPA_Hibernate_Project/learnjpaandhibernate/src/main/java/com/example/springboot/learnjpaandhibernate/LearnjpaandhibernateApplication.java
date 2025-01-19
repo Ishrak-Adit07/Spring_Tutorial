@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LearnjpaandhibernateApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(LearnjpaandhibernateApplication.class, args);
+		
 	}
 
 }
